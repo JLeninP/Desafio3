@@ -6,7 +6,7 @@ date: "2024-09-05"
 output: pdf_document
 ---
 
-# Carga de un caoacitor
+# Carga de un capacitor
 La carga de un capacitor en un punto entre 
 t=0 y t > 0, esta dado por la siguiente función
 
